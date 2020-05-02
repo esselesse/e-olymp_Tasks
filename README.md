@@ -1,2 +1,2 @@
 # e-olymp_Tasks
-Tasks from e-olymp
+Tasks from the e-olymp
